@@ -20,7 +20,7 @@ if you have multiple classes with `[HasWindow]` attribute for one game object, a
 
 # Installation
 **! tested only in Unity 2020.3.25f1 (LTS)**
-- download the asset package.( if you're not familiar with github, just click [this](https://github.com/66somedeveloper99/DesignerWindow/blob/main/DesignerWindow.unitypackage Click To Download Package) link )
+- download the asset package.( if you're not familiar with github, just click [this](https://github.com/66somedeveloper99/DesignerWindow/blob/main/DesignerWindow.unitypackage "Click To Download Package") link )
 - right click on a folder in the *Assets/* folder and click on "Import Package -> Custom Package" button
 ![image](https://user-images.githubusercontent.com/72737724/153041340-c7252a67-c1b9-4b16-b4a2-891eaea97eab.png)
 
