@@ -29,5 +29,3 @@ if you have multiple classes with `[HasWindow]` attribute for one game object, a
 
 - click on he "import" button
 ![image](https://user-images.githubusercontent.com/72737724/153041072-b8374647-91cf-4144-9d37-181a67480372.png)
-
-Contact : barari.saeed.am@outlook.com
